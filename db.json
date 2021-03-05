@@ -1,0 +1,79 @@
+{
+  "namep": [
+    {
+      "id": 1,
+      "name": "Parfum ELLIE SAAB",
+      "description": "Best parfum, eau de toilette.",
+      "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.RWFPKZ_javMZudLSJ0egewHaIY&pid=Api&P=0&w=300&h=300",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "name": "GARNIER",
+      "description": "Best Fond de teint, de chez Garnier 100% contre le soleil.",
+      "imageUrl": "https://www.biensdeconso.com/wp-content/uploads/sites/6/2016/08/Fotolia_46519937_L-Copie-2-e1566939175410.jpg",
+      "price": 80000
+    },
+    {
+      "id": 3,
+      "name": "Organic Cossmet",
+      "description": "Crème bio, Pour être à 100% naturel. Loin des produit chimiques. Une utilisation de 5 fois par semaine.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0mNAns0g966O8akV5YMyDW2aHEPOSAMagdw&usqp=CAU",
+      "price": 100000
+    },
+    {
+      "id": 4,
+      "name": "Fanty beauty",
+      "description": "Palette pour l'eye shadow. 50 couleurs différentes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cosmetics.JPG/220px-Cosmetics.JPG",
+      "price": 50000
+    },
+    {
+      "id": 5,
+      "name": "Ruby rose",
+      "description": "Rouge à lèvre. 24h/24.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7mPEJxwYgNp0yZ-wL6xG5UZn_l3vTABf42A&usqp=CAU",
+      "price": 600
+    }
+  ],
+  "nameC": [
+    {
+      "id": 2,
+      "name": "GARNIER",
+      "description": "Best Fond de teint, de chez Garnier 100% contre le soleil.",
+      "imageUrl": "https://www.biensdeconso.com/wp-content/uploads/sites/6/2016/08/Fotolia_46519937_L-Copie-2-e1566939175410.jpg",
+      "price": 80000
+    },
+    {
+      "id": 1,
+      "name": "Parfum ELLIE SAAB",
+      "description": "Best parfum, eau de toilette.",
+      "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.RWFPKZ_javMZudLSJ0egewHaIY&pid=Api&P=0&w=300&h=300",
+      "price": 50000
+    },
+    {
+      "id": 4,
+      "name": "Fanty beauty",
+      "description": "Palette pour l'eye shadow. 50 couleurs différentes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cosmetics.JPG/220px-Cosmetics.JPG",
+      "price": 50000
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
